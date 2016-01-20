@@ -1,0 +1,7 @@
+{
+    "name": "gnome-shell-translator",
+    "description": "A google translation for gnome shell.",
+    "uuid": "gnome-shell-translator@arshavindn",
+    "url": "https://github.com/arshavindn/gnome-shell-translator",
+    "shell-version": ["3.18"]
+}
